@@ -1,4 +1,4 @@
 # learning-github
 my first github repository.
 <br>
-author - Aryan Dixit
+author - Aryan Dixit (the great)
